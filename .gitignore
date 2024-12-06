@@ -1,0 +1,6 @@
+__pycache__/
+output/
+sd.webui/
+stable-diffusion-2-1/
+venv/
+.env
